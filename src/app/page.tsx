@@ -3,7 +3,7 @@ import Contact from "@/components/contact";
 import Hero from "@/components/hero";
 import Project from "@/components/project";
 import Skill from "@/components/skill";
-import Image from "next/image";
+
 
 
 export default function Home(){
