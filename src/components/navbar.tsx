@@ -25,11 +25,11 @@ const Navbar = () => {
       <span className="ml-3 text-xl">ANILA DEVELOPER</span>
     </a>
     <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center ">
-      <Link target='blank' href={"/"}  className="mr-5 hover:text-gray-900">Home </Link>
-      <Link target='blank' href={"#about"} className="mr-5 hover:text-gray-900">About</Link>
-      <Link target='blank' href={"#skill"} className="mr-5 hover:text-gray-900">Skills</Link>
-      <Link target='blank' href={"#project"} className="mr-5 hover:text-gray-900">Projects</Link>
-      <Link target='blank' href={"#contact"} className="mr-5 hover:text-gray-900">Contacts</Link>
+      <Link  href={"/"}  className="mr-5 hover:text-gray-900">Home </Link>
+      <Link  href={"#about"} className="mr-5 hover:text-gray-900">About</Link>
+      <Link  href={"#skill"} className="mr-5 hover:text-gray-900">Skills</Link>
+      <Link  href={"#project"} className="mr-5 hover:text-gray-900">Projects</Link>
+      <Link  href={"#contact"} className="mr-5 hover:text-gray-900">Contacts</Link>
     </nav>
     
      <a target='blank'  href="https://milestone1-static-resume-nine.vercel.app">
